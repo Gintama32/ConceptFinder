@@ -1,0 +1,28 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+button{
+    cursor: pointer;
+}
+.particles{
+    z-index: -1;
+}
+.header {
+    display: flex;
+    align-items: center;   /* Vertically align items */
+    justify-content: center; /* Center items horizontally */
+    position: relative;      /* For absolute positioning if needed */
+    padding: 10px;
+  }
+  
+  .logo {
+    position: absolute; /* Keep logo on the left */
+    left: 10px;
+  }
+  
+  .title {
+    margin: 0;           /* Remove default margin */
+    text-align: center;   /* Center text inside the element */
+  }
+  

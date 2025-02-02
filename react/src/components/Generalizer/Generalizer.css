@@ -1,0 +1,14 @@
+  
+  /* Box to contain the list */
+  .box {
+    border: 2px solid #ccc; /* Light gray border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px;
+    max-width: 300px; /* Limit width */
+    background-color: #e8e8e9; /* Light background color */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    overflow-y: auto; /* Scroll if content overflows vertically */
+    margin: 10px;
+  }
+  
+

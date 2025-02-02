@@ -1,0 +1,7 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: linear-gradient(22deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(8,27,133,1) 14%, rgba(7,48,147,1) 29%, rgba(0,212,255,1) 100vh);
+  font-family: "Courier", serif;
+}
